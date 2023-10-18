@@ -1,6 +1,6 @@
 # Dungeon Game
 
-![Game Screenshot](link-to-a-screenshot-of-your-game)
+![Game Screenshot]([link-to-a-screenshot-of-your-game](https://drive.google.com/file/d/1x_E3Q9Sktgq5URnaNXoD57_vBdx0dfPu/view?usp=sharing))
 
 ## Table of Contents
 
